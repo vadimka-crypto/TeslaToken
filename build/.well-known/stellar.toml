@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDZGINPTBQZQZIOKZYQ2YOWUTNKTKKYLP4BQFUC3HRIWUSHAKLRFXUOA",
-"GAIT5PGZHBDXIUJ2J4WCRMVP4JO7B6JMPVZ7S3AKHHQ3A2GVOATE2OEI"
+"GCMQADRMHWXAMEI3G6O5NE3KTEOWMN47Y3UPS3IOQNUPX6AFNN4BJLWA",
+"GCFTNYRMZA5BPAANTSBOQ4SNTBUNJWFIQLFHXDEL5DM5WK2HMUHZLQHA"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMPAY"
-ORG_TWITTER="@XLMPAY"
+ORG_NAME="TESLATOKEN"
+ORG_TWITTER="@TeslaToken"
 ORG_LOGO="https://i.ibb.co/1TCLQHG/Stellar-Symbol.png"
-ORG_OFFICIAL_EMAIL="XLMPAY@tutanota.com"
+ORG_OFFICIAL_EMAIL="TESLATOKEN@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMPAY"
-issuer="GAIT5PGZHBDXIUJ2J4WCRMVP4JO7B6JMPVZ7S3AKHHQ3A2GVOATE2OEI"
+code="TeslaToken"
+issuer="GCFTNYRMZA5BPAANTSBOQ4SNTBUNJWFIQLFHXDEL5DM5WK2HMUHZLQHA"
 anchor_asset="false"
-name="Stellar Pay"
-desc="Stellar Pay [XLMPAY],  Stellar pay is an advanced payment system based on XLM, which will replace XLM in the future. "
-conditions="There will only ever be 5.000.000 XLMPAY tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+name="TeslaToken"
+desc="TeslaToken [TESLATOKEN], Tesla Token from (Tesla Motors) is an American company that makes electric vehicles and (through its subsidiary SolarCity) storage solutions for electrical energy."
+conditions="There will only ever be 10.000.000 TESLATOKEN tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
 image="https://i.ibb.co/1TCLQHG/Stellar-Symbol.png"
-fixed_number=5000000
-max_number=5000000
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#XLMPAY was issued using the open and inclusive Stellar blockchain network.
+#TESLATOKEN was issued using the open and inclusive Stellar blockchain network.
